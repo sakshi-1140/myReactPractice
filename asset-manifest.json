@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myReactPractice.git/static/css/main.7923e79f.css",
+    "main.js": "/myReactPractice.git/static/js/main.14813af6.js",
+    "index.html": "/myReactPractice.git/index.html",
+    "main.7923e79f.css.map": "/myReactPractice.git/static/css/main.7923e79f.css.map",
+    "main.14813af6.js.map": "/myReactPractice.git/static/js/main.14813af6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7923e79f.css",
+    "static/js/main.14813af6.js"
+  ]
+}
